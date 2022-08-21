@@ -1,0 +1,25 @@
+Since commit:
+
+Current:
+	
+	
+TODO:
+	- Code Cleanup
+	- Polish...
+	
+Bugs:
+
+
+Polish:
+	- Hero nodes : Movement : Momentum to help in calcularting next edge to move...
+	
+	- Random node movement in non game states
+	
+	- Move window css to separate class ?? what was this?
+	
+	- Shadows
+	- Sphere Picking : hover ( enlarge / shrink node to show it's hovered over?...)
+	- High Scores : Database
+	
+Ideas:
+Have to match colors : different colors impeede progres
